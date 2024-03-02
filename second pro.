@@ -1,0 +1,67 @@
+#python is a case sensetive language.
+'''print("Hello  World")
+print('hello word')
+print('salman khan')
+print(7)
+
+#print ek yasa function hai jese kuch bhi bhejne pr usko screen pr show kra dega
+print(1,2,3,4)
+print('1,2,3,4,hello',sep='/')
+
+print('ravi',end=' ')
+print('kumar singh')
+# Ab ye sabhi ek hi line me aayenge
+print(1e308)
+
+#Array/list
+print([1,2,3,4,5,6])
+
+#complex
+print(5+6j)
+
+#boolean
+print(True and False)
+print(True  or False)
+
+#tuple
+print((1,2,3,4,5,6))
+
+#set
+print({1,2,3,4,5})
+
+#Disconary
+print({'Name':'Ravi Kumar Singh','class':'btech','subject':'computer science'})
+
+#type
+x=type(5)#type ke under kuch bhi rakh denge woh uska type automatic bta dega.
+print(x)
+
+#stylest method of creating the variable
+a,b,c=1,2,3
+print(a,b,c) # it is a best method of creating the variable
+
+#second stylest method of creating the variable
+a=2
+b=3
+c=4
+print(a,b,c)'''
+'''
+#if we want to give same value of multiple variable
+a=b=c=9
+print(a,b,c)
+
+#identifiers
+#special keyword or  variable 
+first_name=input("Enter your  first name\n")
+last_name=input("Enter your last name\n")
+print("your name is" ,first_name,last_name,"right na")
+
+# user se input lena
+input('what is your name')'''
+
+#take input from user and stored anothe variable
+fnum =int(input('Enter the first number'))
+snum=int(input('Enter the second number'))
+print(fnum+snum)
+#add the two variable
+#print the result
